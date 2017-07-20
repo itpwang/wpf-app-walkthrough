@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace WpfApplicationWalkthrough
 {
     /// <summary>
-    /// Interaction logic for Page1.xaml
+    /// Interaction logic for ExpenseReportPage.xaml
     /// </summary>
-    public partial class Page1 : Page
+    public partial class ExpenseReportPage : Page
     {
-        public Page1()
+        public ExpenseReportPage()
         {
             InitializeComponent();
         }
