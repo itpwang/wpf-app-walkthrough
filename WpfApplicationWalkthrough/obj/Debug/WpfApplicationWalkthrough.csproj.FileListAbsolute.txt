@@ -16,3 +16,4 @@ C:\Users\Ivan\Documents\Visual Studio 2015\Projects\WpfApplicationWalkthrough\Wp
 C:\Users\Ivan\Documents\Visual Studio 2015\Projects\WpfApplicationWalkthrough\WpfApplicationWalkthrough\obj\Debug\WpfApplicationWalkthrough.csproj.GenerateResource.Cache
 C:\Users\Ivan\Documents\Visual Studio 2015\Projects\WpfApplicationWalkthrough\WpfApplicationWalkthrough\obj\Debug\WpfApplicationWalkthrough.exe
 C:\Users\Ivan\Documents\Visual Studio 2015\Projects\WpfApplicationWalkthrough\WpfApplicationWalkthrough\obj\Debug\WpfApplicationWalkthrough.pdb
+C:\Users\Ivan\Documents\Visual Studio 2015\Projects\WpfApplicationWalkthrough\WpfApplicationWalkthrough\obj\Debug\App.baml
